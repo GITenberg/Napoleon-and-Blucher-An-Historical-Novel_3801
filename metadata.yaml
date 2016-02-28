@@ -1,0 +1,32 @@
+_repo: Napoleon-and-Blucher-An-Historical-Novel_3801
+creator:
+  author:
+    agent_name: Mühlbach, L. (Luise)
+    aliases:
+    - Mühlbach, Luise
+    - Mundt, Klara Muller
+    - Muhlbach, L. (Luise)
+    - Mundt, Klara Müller
+    - Mundt, Clara
+    - Mühlbach, Louise
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '830'
+    url: http://www.gutenberg.org/2009/agents/830
+    wikipedia: http://de.wikipedia.org/wiki/Luise_M%C3%BChlbach
+description: ''
+gutenberg_issued: '2003-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3801'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Fiction'
+- !lcsh 'Blücher, Gebhard Leberecht von, 1742-1819 -- Fiction'
+- !lcsh 'Germany -- History -- 1806-1815 -- Fiction'
+- !lcc 'PT'
+title: 'Napoleon and Blücher: An Historical Novel'
+url: http://www.gutenberg.org/ebooks/3801
