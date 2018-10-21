@@ -1,5 +1,5 @@
 _repo: Napoleon-and-Blucher-An-Historical-Novel_3801
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'Blücher, Gebhard Leberecht von, 1742-1819 -- Fiction'
 - !lcsh 'Germany -- History -- 1806-1815 -- Fiction'
 - !lcc 'PT'
+- GITenberg
 title: 'Napoleon and Blücher: An Historical Novel'
 url: http://www.gutenberg.org/ebooks/3801
